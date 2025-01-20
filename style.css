@@ -14,18 +14,6 @@ body {
 /* header  */
 
 
-/* header {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  background-color: lightskyblue;
-  height: 80px;
-  position: fixed;
-  right: 0;
-  left: 0;
-  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
-} */
-
 header {
   display: flex;
   justify-content: space-evenly;
